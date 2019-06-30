@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://sasa:sasa@sasacluster-akwtv.mongodb.net/test?retryWrites=true&w=majority"
+}
